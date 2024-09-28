@@ -1,9 +1,9 @@
 # zsh-pnpm
 
 ![Version](https://img.shields.io/badge/version-1.3.0-brightgreen)
-![License](https://img.shields.io/github/license/zfben/zsh-npm)
+![License](https://img.shields.io/github/license/zfben/zsh-pnpm)
 
-A zsh plugin for using `n` as `npm` aliases with `noglob` prefix and more.
+A zsh plugin for using `p` as `pnpm` aliases and more.
 
 | Alias | Command
 | --- | ---
