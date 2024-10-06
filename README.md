@@ -18,6 +18,7 @@ A zsh plugin for using `p` as `pnpm` aliases and more.
 | `ps` | `pnpm run start`
 | `pl` | `pnpm run lint`
 | `po` | `pnpm outdated`
+| `px` | `pnpm dlx`
 
 ## Install
 
