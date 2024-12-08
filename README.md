@@ -15,7 +15,7 @@ A zsh plugin for using `p` as `pnpm` aliases and more.
 | `pb` | `pnpm run build`
 | `pd` | `pnpm run dev`
 | `pt` | `pnpm run test`
-| `ps` | `pnpm run start`
+| `prs` | `pnpm run start`
 | `pl` | `pnpm run lint`
 | `po` | `pnpm outdated`
 | `px` | `pnpm dlx`

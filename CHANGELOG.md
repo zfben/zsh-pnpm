@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- [Fix] Fix `ps` alias to `prs`.
+
 ## 1.1.0
 
 - [Feature] Add `px` (short for `pnpm dlx`).
